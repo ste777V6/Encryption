@@ -14,7 +14,7 @@
                             - DSA : Used as complement of RSA 2048 bit key
 
 ### 3) Digital Certificates
-  - Establishing trust between sender and receiver
+  - A file that verify the identity of a PK holder
 ---
 ### Phases
   1) Establish trust using Digital Certificates
