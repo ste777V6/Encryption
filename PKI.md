@@ -14,6 +14,6 @@
 ---
 ### Phases
   1) Establish trust using Digital Certificates
-  2) Echange of encrypted information
+  2) Exchange of encrypted information
 
 
