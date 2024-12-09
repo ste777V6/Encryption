@@ -13,7 +13,7 @@
   - Establishing trust between sender and receiver
 ---
 ### Phases
-  1) Establish trust using Digital 
+  1) Establish trust using Digital Certificates
   2) Echange of encrypted information
 
 
